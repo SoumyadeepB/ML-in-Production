@@ -3,7 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+<<<<<<< HEAD
 pretrained_model/
+=======
+>>>>>>> 9809f16a7face0add3d32f05bf71f1e810e2f255
 # C extensions
 *.so
 
